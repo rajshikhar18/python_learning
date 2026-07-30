@@ -1,3 +1,4 @@
+# Count the frequency of each character in a string
 string = input("Enter a string ")
 char_frequency ={
 

@@ -1,3 +1,4 @@
+#find the first repeating character in the string 
 string = input("Enter the string:")
 char_frequency ={}
 for char in string:
