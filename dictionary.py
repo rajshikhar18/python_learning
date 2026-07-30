@@ -17,12 +17,12 @@ students = {
 
     }
 }
-print(students)
-print(students["subjects"])
-print(students["subjects"]["maths"])
-print(students.keys())
-print(students.values())
+#print(students)
+#print(students["subjects"])
+#print(students["subjects"]["maths"])
+#print(students.keys())
+##print(students.values())
 print(students.items())
-print(students.get("name"))
-students.update({"name" : "lucky"})
-print(students)
+#print(students.get("name"))
+#students.update({"name" : "lucky"})
+#print(students)
